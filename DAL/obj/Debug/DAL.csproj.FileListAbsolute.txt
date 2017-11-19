@@ -1,0 +1,8 @@
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\bin\Debug\DAL.dll.config
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\bin\Debug\DAL.dll
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\bin\Debug\DAL.pdb
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\bin\Debug\EntityFramework.dll
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\bin\Debug\EntityFramework.xml
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\obj\Debug\DAL.dll
+c:\users\usman\documents\visual studio 2015\Projects\ConsoleDbConnection\DAL\obj\Debug\DAL.pdb
